@@ -1,1 +1,4 @@
-ubah file klik.py 
+ubah file klik.py
+ubah yang ini iya
+link_invation= 'http://aciterar.com/29Io' < Ubah ke link kalian
+if "http://aciterar.com/29Io" in f.read(): < Ubah ke Link kalian
